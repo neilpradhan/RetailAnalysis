@@ -70,8 +70,7 @@ To set up and run the project on your local machine, follow these steps:
    python application_main.py <ENV>
    ```
 
-Thank you for contributing to the Retail Analysis project. Your efforts help drive the continuous improvement and reliability of our retail data processing and analysis capabilities.
 
 ---
 
-This version of your README is designed to be clear and functional, providing new users or developers with a straightforward guide to getting started with your project while emphasizing the structured testing and environment management which are critical to your workflow.
+
