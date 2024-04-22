@@ -1,6 +1,3 @@
-Certainly! Here's a restructured and polished version of your README file, designed to clearly explain the project setup, its components, and the workflow:
-
----
 
 # Retail Analysis Project
 
